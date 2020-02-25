@@ -1,0 +1,6 @@
+connexion[swagger-ui]
+gunicorn
+Flask-Caching
+pandas
+s3fs
+python-dotenv
