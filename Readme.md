@@ -2,6 +2,9 @@
 
 > A starter image useful for my ML backend services
 
+![Python versions](https://img.shields.io/badge/python-3.8-blue?style=flat-square)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/louisguitton/flask-pandas?style=flat-square)
+
 ## Example usage
 
 ```docker
